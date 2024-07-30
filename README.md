@@ -1,6 +1,6 @@
-# boas vindas ao meu perfil 💜                                                                                                                                                    
-                                                                                                                                                                                      
-meu nome e ana luiza                                                                                                                                                                                       
+## boas vindas ao meu perfil 💜                                                                                                                                                    
+                                                                                                                                                                                  
+ meu nome e ana luiza                                                                                                                                                                                       
                                                                                                                                                                                     - estou estudando na alura                                                                                                                                                           - estou me desenvolvendo na linguagem javaScrip
 - utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
